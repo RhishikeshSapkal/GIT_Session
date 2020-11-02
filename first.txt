@@ -1,3 +1,4 @@
 first edit
 second edit
 ! new line 3
+change 4 - for bug2
