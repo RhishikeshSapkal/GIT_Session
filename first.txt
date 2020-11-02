@@ -1,3 +1,4 @@
 first edit
 second edit
 ! new line 3
+change 5: making changes to master after bug 2 commit
