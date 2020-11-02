@@ -5,3 +5,4 @@ change 5: making changes to master after bug 2 commit
 change 4 - for bug2
 change 7 - for master replicating commit from other user/s
 change 6 - for bug3 rebase
+change 8 - local will go to remote repo
