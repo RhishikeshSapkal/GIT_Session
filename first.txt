@@ -3,4 +3,4 @@ second edit
 ! new line 3
 change 5: making changes to master after bug 2 commit
 change 4 - for bug2
-
+change 7 - for master replicating commit from other user/s
